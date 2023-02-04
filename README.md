@@ -6,7 +6,7 @@ In the last 25 years, the use of botulinum toxin type A (Botox) has become a com
 # Data Exploration 
 The data for this analysis is publicly available at figshare.com and was used in a study on Botox treatments by Nieuwenhuys et al. in 2015 [2]. The data contains 43 gait measurements for 53 children before and after they received Botox injections in their affected muscles. All children were between 4 and 12 years of age with the average age being 5.6 years old. 35 of the 53 (66%) were boys and 36 of all 53 patients (67%) were diagnosed with bilateral cerebral palsy, meaning both legs were impacted by their disability. Almost 80% of children required no physical support when walking and all but 11 had a Gross Motor Function Classification of II or lower. This means they are capable of walking independently in most settings but may require some support when climbing stairs or on uneven terrain [3]. 
 
-<img src="https://user-images.githubusercontent.com/123997370/216790850-ce697bdd-07c3-4637-bd62-206228c078f7.png" width=33% height=50% hspace = 15> <img src="https://user-images.githubusercontent.com/123997370/216790976-a8367076-5586-42c9-b893-3ad5b6919a3c.png" width = 33% height = 50% hspace = 15> 
+<img src="https://user-images.githubusercontent.com/123997370/216790850-ce697bdd-07c3-4637-bd62-206228c078f7.png" width=33% height=50% hspace = 6> <img src="https://user-images.githubusercontent.com/123997370/216790976-a8367076-5586-42c9-b893-3ad5b6919a3c.png" width = 33% height = 50% hspace = 6> 
 
 
 
