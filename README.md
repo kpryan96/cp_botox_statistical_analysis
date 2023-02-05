@@ -23,18 +23,19 @@ This analysis explores the null hypothesis that there is no association between 
 3) Compare the p-value to the new adjusted alpha
 
 # Results and Discussion 
-Of the 43 gait measurements, only changes in 12 were found to have a statistically significant association with Botox treatment. They are listed and summarized in table 3. 
+Of the 43 gait measurements, only changes in 12 were found to have a statistically significant association with Botox treatment. They are listed and summarized the following table. 
 
+<img src="https://user-images.githubusercontent.com/123997370/216848393-6dfe3b0c-088d-40d1-b8c5-24042d33b919.png">
 
 It is interesting to note that significant changes were reported only in gait measurements of the foot and ankle. This suggests that Botox treatments should be more targeted to more specific joints involving the foot or ankle rather than other muscle groups in the lower extremities.     
 
 # Next Steps
 This study could be extended by taking measurements sooner following the Botox injections. It is possible that the effects of the treatment dissipated over time for the hip and pelvis joints. There is also no indication that these patients underwent any kind of physical therapy after injections. It would be interesting to see what the impact of physical rehabilitation would be post injection when muscles, in theory, would be more pliable.
 
-# Next Steps
-This study could be extended by taking measurements sooner following the botox injections. It is possible that the effects of the treatment dissipated over time for the hip and pelvis joints. There is also no indication that these patients underwent any kind of phyiscal therapy after injections. It would be interesting to see what the impact of physical rehabilitaton would be post injection. 
 
 # References 
-[1]
-[2]
-[3]
+[1] Multani I, Manji J, Hastings-Ison T, Khot A, Graham K. Botulinum Toxin in the Management of Children with Cerebral Palsy. Paediatr Drugs. 2019 Aug;21(4):261-281. doi: 10.1007/s40272-019-00344-8. PMID: 31257556; PMCID: PMC6682585.
+
+[2] Nieuwenhuys A, Papageorgiou E, Pataky T, De Laet T, Molenaers G, Desloovere K. Literature Review and Comparison of Two Statistical Methods to Evaluate the Effect of Botulinum Toxin Treatment on Gait in Children with Cerebral Palsy. PLoS One. 2016 Mar 31;11(3):e0152697. doi: 10.1371/journal.pone.0152697. PMID: 27030973; PMCID: PMC4816309.
+
+[3] https://cerebralpalsy.org.au/our-research/about-cerebral-palsy/what-is-cerebral-palsy/severity-of-cerebral-palsy/gross-motor-function-classification-system/
