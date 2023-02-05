@@ -8,7 +8,12 @@ The data for this analysis is publicly available at figshare.com and was used in
 
 <img src="https://user-images.githubusercontent.com/123997370/216790850-ce697bdd-07c3-4637-bd62-206228c078f7.png" width=32% height=50% hspace = 2> <img src="https://user-images.githubusercontent.com/123997370/216790976-a8367076-5586-42c9-b893-3ad5b6919a3c.png" width = 32% height = 50% hspace = 2> <img src="https://user-images.githubusercontent.com/123997370/216791247-2a605eb0-d096-4656-bcb1-7e6759a02590.png" width = 32% height = 50% hspace = 2> 
 
-Regarding treatment data and measurements, on average, baseline measurements were taken 28 days prior to the Botox treatment and second measurements were usually taken 61 days after injections. The 43 gait measurements focus on the knee, pelvis, hip, ankle and foot. These can further be broken down into three general categories. Movements occurring on the Sagittal Plane, the Coronal Plane, and the Transverse Plane.  All measurements are listed in degrees. They are summarized in Table 1. 
+Regarding treatment data and measurements, on average, baseline measurements were taken 28 days prior to the Botox treatment and second measurements were usually taken 61 days after injections. The 43 gait measurements focus on the knee, pelvis, hip, ankle and foot. These can further be broken down into three general categories. Movements occurring on the Sagittal Plane, the Coronal Plane, and the Transverse Plane.  All measurements are listed in degrees. They are summarized in the following table.
+
+<img src="https://user-images.githubusercontent.com/123997370/216847860-03b51b71-0e24-44c4-ab83-2739fa3cb48f.png" width=100% height=50%>
+
+
+
 
 # Statistical Analysis 
 This analysis explores the null hypothesis that there is no association between Botox injection and change in gait measurements, i.e., the average difference in the angle of movement for a joint measurement is 0. The alternative hypothesis is that the average difference is not 0. To test this, a paired T-test was performed for all 43 gait measurements. To account for multiple comparison issues with so many comparisons being made, a Holm-Bonferroni correction was used. The Holm-Bonferroni method is similar to the Bonferroni correction but uses a ranked stepwise method to limit the number of Type II errors while accounting for Type I errors as in the Bonferroni method. It works in the following way, 
